@@ -1,0 +1,16 @@
+
+
+
+
+A EQU 3
+B EQU 4
+C EQU 5
+D EQU 6
+E EQU 7  
+
+ADD AX,A
+ADD AX,B
+ADD AX,C
+ADD AX,D
+ADD AX,E
+MOV BX,AX
